@@ -22,7 +22,6 @@ public class Main {
             System.out.println(str);
         }
 
-        //look here
         public void testLogOfPackage(String str) {
             System.out.println(str);
         }
