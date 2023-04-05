@@ -28,7 +28,7 @@
         <dependency>
             <groupId>com.stellariver.milky</groupId>
             <artifactId>aspectj-tool</artifactId>
-            <version>0.1.7</version>
+            <version>0.1.8-SNAPSHOT</version>
         </dependency>
     </dependencies>
 
